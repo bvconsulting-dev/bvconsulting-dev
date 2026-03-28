@@ -1,28 +1,64 @@
 # BV Consulting
 
-I design and build scalable infrastructure and deployment systems for complex platforms.
+I help companies design and scale their infrastructure, deployment pipelines and system integrations.
 
-## What I Do
+---
 
-- CI/CD architecture for multi-environment systems  
-- Infrastructure and deployment automation  
-- System integration and data synchronization  
-- Reliability and scaling improvements  
+## 🚀 What I Do
 
-## Selected Work
+I work with teams that are growing fast and starting to hit:
 
-- Enterprise CI/CD pipeline with full, incremental and component-based deployments  
-- Distributed data synchronization platform  
-- Cloud-native architecture with Kubernetes and automation pipelines  
+- deployment complexity  
+- infrastructure instability  
+- scaling challenges  
 
-## Focus Areas
+I help solve these by designing:
 
-- Platform Engineering  
-- DevOps Architecture  
-- Distributed Systems  
-- Infrastructure Automation  
+- CI/CD pipelines for multi-environment systems  
+- deployment strategies (full, incremental, component-based)  
+- data synchronization and integration platforms  
+- reliable and scalable infrastructure  
 
-## Contact
+---
+
+## 🧠 Selected Work
+
+### 🔹 Enterprise CI/CD Pipeline
+Production-grade deployment system with:
+- multi-environment orchestration  
+- incremental releases  
+- component-based deployments  
+
+👉 https://github.com/bvconsulting-dev/gitlab-enterprise-cicd-pipeline  
+
+---
+
+### 🔹 Distributed Data Sync Platform
+System for synchronizing data between distributed systems:
+- comparison logic  
+- processing pipelines  
+- modular architecture  
+
+👉 https://github.com/bvconsulting-dev/distributed-data-sync-platform  
+
+---
+
+### 🔹 Platform CI/CD Architecture
+Cloud-native architecture with Kubernetes, CI/CD and automation.
+
+👉 https://github.com/bvconsulting-dev/platform-cicd-architecture  
+
+---
+
+## 🎯 How I Work
+
+- Focus on real problems (not over-engineering)  
+- Build scalable and maintainable systems  
+- Work closely with engineering teams  
+
+---
+
+## 📬 Contact
 
 📧 contact@bvconsulting.dev  
 🌐 https://bvconsulting.dev
